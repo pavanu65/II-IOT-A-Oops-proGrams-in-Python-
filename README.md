@@ -1,0 +1,2 @@
+# II-IOT-A-Oops-proGrams-in-Python-
+Object-Oriented Programming (OOP) in Python is a programming paradigm that organizes code into reusable and modular components called classes and objects. It allows developers to model real-world entities and their behaviors, making code more maintainable, scalable, and reusable.
